@@ -66,9 +66,3 @@ def search_listings(
         page_size=filters.page_size,
         listings=listing_dtos
     )
-
-
-
-@app.get("/")
-def search_listings():
-    print("Hello world")
