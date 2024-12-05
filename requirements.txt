@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+requests
+beautifulsoup4
+python-dotenv
+alembic
+selenium
+geopy
+webdriver_manager
